@@ -1,0 +1,6 @@
+{
+  "name": "LeafAI - Intelligent Crop Diagnostic & SDG Impact Tool",
+  "description": "Production-ready agricultural diagnostic suite featuring dual-user security authentication, real-time necrotic spot computer vision analysis, and SDG impact calculation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
